@@ -1,0 +1,7 @@
+C:\Users\azatb\source\repos\Home_Work_Module_10\Home_Work_Module_10(2 Chapter)\bin\Debug\Home_Work_Module_10(2 Chapter).exe.config
+C:\Users\azatb\source\repos\Home_Work_Module_10\Home_Work_Module_10(2 Chapter)\bin\Debug\Home_Work_Module_10(2 Chapter).exe
+C:\Users\azatb\source\repos\Home_Work_Module_10\Home_Work_Module_10(2 Chapter)\bin\Debug\Home_Work_Module_10(2 Chapter).pdb
+C:\Users\azatb\source\repos\Home_Work_Module_10\Home_Work_Module_10(2 Chapter)\obj\Debug\Home_Work_Module_10(2 Chapter).csproj.AssemblyReference.cache
+C:\Users\azatb\source\repos\Home_Work_Module_10\Home_Work_Module_10(2 Chapter)\obj\Debug\Home_Work_Module_10(2 Chapter).csproj.CoreCompileInputs.cache
+C:\Users\azatb\source\repos\Home_Work_Module_10\Home_Work_Module_10(2 Chapter)\obj\Debug\Home_Work_Module_10(2 Chapter).exe
+C:\Users\azatb\source\repos\Home_Work_Module_10\Home_Work_Module_10(2 Chapter)\obj\Debug\Home_Work_Module_10(2 Chapter).pdb
